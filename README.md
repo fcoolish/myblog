@@ -1,11 +1,7 @@
 Blog
 ========
 
-### 订阅
-点击本页面右上角的 Watch 在弹出框中点击 Watching 订阅本博客，这样本博客的所有文章更新和评论都会在github首页出现。
 
-
-公众号（刚申请，之后文章会往上面发）：
 
 
 
@@ -56,5 +52,3 @@ Blog
 ### 其他
 - [拿下阿里、头条、滴滴的offer后谈谈面试经验（上）](https://github.com/farmerjohngit/myblog/issues/21)
 
-## 关于作者
-- 邮箱：farmercoding@163.com
